@@ -3,7 +3,7 @@
 I am an Embedded Systems Engineer focusing on **embedded Linux**, **IoT**, **edge AI**, and **low-level system design**.  
 I build firmware, optimize hardware–software interaction, and experiment with high-performance embedded runtimes on constrained devices.
 
-My work spans from **MCU-level development (ESP32, RP2040)** to **single-board Linux systems (Raspberry Pi)**, including real-time frameworks, custom drivers, networking stacks, and on-device AI.
+My work spans from **MCU-level development (ESP32, Pi Pico)** to **single-board Linux systems (Raspberry Pi)**, including real-time frameworks, custom drivers, networking stacks, and on-device AI.
 
 ---
 ## 🛠️ Languages
