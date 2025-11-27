@@ -14,17 +14,6 @@ My work spans from **MCU-level development (ESP32, RP2040)** to **single-board L
 
 ---
 
-## 🧩 Core Expertise
-
-- 🔧 **Embedded System Development**
-- 🐧 **Embedded Linux**
-- 📡 **Internet of Things (IoT)**  
-- 🧠 **Edge AI**
-- 🖥️ **System Optimization**
-
----
-
-
 ## ⚙️ Frameworks & SDK
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -32,5 +21,15 @@ My work spans from **MCU-level development (ESP32, RP2040)** to **single-board L
 ![Zephyr](https://img.shields.io/badge/Zephyr-3F00FF?style=for-the-badge&logo=zephyr&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![LVGL](https://img.shields.io/badge/LVGL-7D42FC?style=for-the-badge&logo=lvgl&logoColor=white)
+
+---
+
+## 🧩 Core Expertise
+
+- 🔧 **Embedded System Development**
+- 🐧 **Embedded Linux**
+- 📡 **Internet of Things (IoT)**  
+- 🧠 **Edge AI**
+- 🖥️ **System Optimization**
 
 ---
