@@ -22,7 +22,6 @@ My work spans from **MCU-level development (ESP32, Pi Pico)** to **single-board 
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![LVGL](https://img.shields.io/badge/LVGL-7D42FC?style=for-the-badge&logo=lvgl&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![micro-ROS](https://img.shields.io/badge/micro--ROS-35465C?style=for-the-badge&logo=ros&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFDD00?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
