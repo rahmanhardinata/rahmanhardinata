@@ -6,17 +6,6 @@ I build firmware, optimize hardware–software interaction, and experiment with 
 My work spans from **MCU-level development (ESP32, RP2040)** to **single-board Linux systems (Raspberry Pi)**, including real-time frameworks, custom drivers, networking stacks, and on-device AI.
 
 ---
-
-## 🧩 Core Expertise
-
-- 🔧 **Embedded System Development** (bare-metal, RTOS, low-level peripheral control)  
-- 🐧 **Embedded Linux** (kernel modules, device tree, Buildroot, Yocto basics)  
-- 📡 **Internet of Things (IoT)** (MQTT, CoAP, Micro-ROS, XRCE-DDS, custom protocols)  
-- 🧠 **Edge AI** (model deployment on MCU/SBC, quantization, optimized runtimes)  
-- 🖥️ **System Optimization** (memory, performance, real-time constraints)
-
----
-
 ## 🛠️ Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +13,17 @@ My work spans from **MCU-level development (ESP32, RP2040)** to **single-board L
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 
 ---
+
+## 🧩 Core Expertise
+
+- 🔧 **Embedded System Development**
+- 🐧 **Embedded Linux**
+- 📡 **Internet of Things (IoT)**  
+- 🧠 **Edge AI**
+- 🖥️ **System Optimization**
+
+---
+
 
 ## ⚙️ Frameworks & SDK
 
